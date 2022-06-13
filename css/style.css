@@ -1,10 +1,32 @@
 body{
     text-align: center;
-    background-color: rgba(236, 199, 150, 0.674);
+   
 }
 h1{
-    color:blueviolet;
+    color:rgb(27, 123, 62);
 }
 h2{
     color:blue;
+}
+section{
+    max-width: 45%;
+    display: inline-block;
+    padding: 2%;
+    vertical-align: middle;
+}
+div{
+    width: 100%;
+}
+ul{
+    padding: 0;
+}
+li{
+    display: block;
+    width:fit-content;
+    margin: 0 auto;
+}
+img{
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
 }
